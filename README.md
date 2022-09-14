@@ -2,7 +2,11 @@
 Codeless Data Structures and Algorithms
 
 # Part 1 데이터 구조
+> asdfadfsa
 
+> **Note**
+
+> **Warning**
 ## 1 데이터 구조와 알고리즘, 자료형, 빅 오 표기법
 
 ### 데이터 구조와 알고리즘 개요
